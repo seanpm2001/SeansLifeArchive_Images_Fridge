@@ -13,7 +13,7 @@
 
 [01.0 - Index](#Index)
 
-[02.0 - Description](#SeansLifeArchive_Images_Fridge
+[02.0 - Description](#SeansLifeArchive_Images_Fridge)
 
 [03.0 - About](#About)
 
@@ -92,9 +92,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Thursday, January 21st 2021 at 7:38 pm)`
+File version: `2 (Sunday, January 24th 2021 at 8:31 pm)`
 
-Line count: `0,146`
+Line count: `0,158`
 
 ***
 
@@ -127,6 +127,18 @@ Version 1 (Thursday, January 21st 2021 at 7:38 pm)
 > * Added the README version history section
 
 > * No other changes in version 1
+
+Version 2 (Sunday, January 24th 2021 at 8:31 pm)
+
+> Changes:
+
+> * Fixed a link in the index
+
+> * Updated the file history section
+
+> * Updaed the file info section
+
+> * No other changes in version 2
 
 Version 2 (coming soon)
 
